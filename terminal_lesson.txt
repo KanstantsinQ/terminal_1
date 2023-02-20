@@ -1,0 +1,23 @@
+pwd - current working directory
+mkdir red - create folder
+cd red - change directory 
+mkdir red1 red2 red3 - create folder
+cd red1 - change directory
+touch 1.txt 2.txt 3.txt 4.json 5.json - creating empty files
+mkdir red4 red5 red6 - create folder
+ls- la - list the contents of the folder
+cat 1.txt - open the text file
+cat >> text1.txt
+         		moloko
+			hleb
+			sahar
+press ctrl+c (save and exit)
+cd .. - exit the folder to a level higher
+mv red1/{1.txt,2.txt} red2/ - move files
+cp red1/{3.txt,4.json} red3/ - copying files
+find -name "1.txt" - search for file by name
+tail 1.txt - output the contents of the file, the last 10 lines of the file will be snown
+head -2 1.txt - output the first few lines from a text file
+tail -2 1.txt - output the last few lines from a text file
+less 1.txt - view the contents of a long file
+date - date and time output
